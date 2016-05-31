@@ -1,0 +1,1 @@
+APACHE_ERROR_LOG \[(?<timestamp>%{DAY:day} %{MONTH:month} %{MONTHDAY} %{TIME} %{YEAR})\] \[.*:%{LOGLEVEL:loglevel}\] \[pid %{NUMBER:pid}\] \[client %{IP:clientip}:.*\] %{GREEDYDATA:message}
