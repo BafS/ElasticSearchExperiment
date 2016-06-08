@@ -4,6 +4,21 @@ CLD Cloud Computing class - 2016
 HEIG-VD, Yverdon-les-Bains, Switzerland  
 Authors: [Bafs](https://github.com/BafS), [D34D10CK](https://github.com/D34D10CK), [BinaryBrain](https://github.com/BinaryBrain), [ValentinMinder](https://github.com/ValentinMinder)
 
+## Structure of the Project
+
+The aim of this project is to have a first experience with Elastic Search.
+
+We developped several ressources, including
+
+- the current README is an outline of the topic
+- the [summary](summary) of the topic
+- the [presentation slides](slides.pdf) we used to present the project
+- the [logstash configuration](logstash) for Demo 1 (Elastic)
+- the [data source an uploader script](data-uploader) for Demo 2 (Kibana)
+- a running instance of Elastic Search on AWS, with Kibana plugin. The direct link is not displayed here but available in the resources.
+
+# Outline of Elastic Search Topic
+
 ## 1. How it works
 
 *Goal of this chapter: Explain globally your topic. Recall that your audience consists of application architects, developers and testers, but also business people (your boss). Don't forget to discuss cost and strategic questions.*
